@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ZEVNO Core
+Comment=ZEVNO P2P Cryptocurrency
+Comment[de]=Verbinde mit dem ZEVNO peer-to-peer Netzwerk
+Comment[fr]=ZEVNO, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ZEVNO, eşten eşe kriptografik sanal para birimi
+Exec=zevno-qt %u
+Terminal=false
+Type=Application
+Icon=zevno128
+MimeType=x-scheme-handler/zevno;
+Categories=Office;Finance;

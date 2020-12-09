@@ -1,0 +1,11 @@
+[Protocol]
+exec=zevno-qt '%u'
+protocol=zevno
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

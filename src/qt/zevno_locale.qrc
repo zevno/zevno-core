@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/zevno_ar.qm</file>
+        <file alias="bg">locale/zevno_bg.qm</file>
+        <file alias="de">locale/zevno_de.qm</file>
+        <file alias="en">locale/zevno_en.qm</file>
+        <file alias="es">locale/zevno_es.qm</file>
+        <file alias="fi">locale/zevno_fi.qm</file>
+        <file alias="fr">locale/zevno_fr.qm</file>
+        <file alias="it">locale/zevno_it.qm</file>
+        <file alias="ja">locale/zevno_ja.qm</file>
+        <file alias="ko">locale/zevno_ko.qm</file>
+        <file alias="nl">locale/zevno_nl.qm</file>
+        <file alias="pl">locale/zevno_pl.qm</file>
+        <file alias="pt">locale/zevno_pt.qm</file>
+        <file alias="ru">locale/zevno_ru.qm</file>
+        <file alias="sk">locale/zevno_sk.qm</file>
+        <file alias="sv">locale/zevno_sv.qm</file>
+        <file alias="th">locale/zevno_th.qm</file>
+        <file alias="tr">locale/zevno_tr.qm</file>
+        <file alias="vi">locale/zevno_vi.qm</file>
+        <file alias="zh_CN">locale/zevno_zh_CN.qm</file>
+        <file alias="zh_TW">locale/zevno_zh_TW.qm</file>
+    </qresource>
+</RCC>

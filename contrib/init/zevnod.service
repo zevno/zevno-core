@@ -1,0 +1,22 @@
+[Unit]
+Description=ZEVNO's distributed currency daemon
+After=network.target
+
+[Service]
+User=zevnocore
+Group=zevnocore
+
+Type=forking
+PIDFile=/var/lib/zevnod/zevnod.pid
+ExecStart=/usr/bin/zevnod -daemon -pid=/var/lib/zevnod/zevnod.pid \
+-conf=/etc/zevnocore/zevno.conf -datadir=/var/lib/zevnod -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

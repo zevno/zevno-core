@@ -1,0 +1,6 @@
+usr/local/bin/zevno-qt usr/bin
+share/pixmaps/zevno32.xpm usr/share/pixmaps
+share/pixmaps/zevno16.xpm usr/share/pixmaps
+share/pixmaps/zevno128.png usr/share/pixmaps
+debian/zevno-qt.desktop usr/share/applications
+debian/zevno-qt.protocol usr/share/kde4/services/
